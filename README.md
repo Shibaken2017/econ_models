@@ -1,2 +1,2 @@
 # econ_models
-practice for using QuantEcon
+practice for using QuantEcon<https://lectures.quantecon.org/>
